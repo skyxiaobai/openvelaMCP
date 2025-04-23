@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3b87bc1e-d5e1-4c12-8021-8f6b8b67f823)# openvelaMCP
+
 2025功能赛道赛题-基于 openvela 和 MCP 的多模态边缘智能协同框架设计
 
 题目要求：
@@ -43,5 +43,6 @@
   MCP在资源受限环境下实现的优化策略
   大模型与边缘设备协同逻辑的智能水平
   系统整体可靠性与实用性
-
   
+参考架构图：
+![image](https://github.com/user-attachments/assets/3b87bc1e-d5e1-4c12-8021-8f6b8b67f823)
